@@ -137,9 +137,8 @@ Privacy & terms
 - Hero
 - Featured in
 - How it works
-- Diets
 - Meals (and list of diets)
-- Testimonials + Gallery
-- Pricing + Features
+- Testimonials + gallery
+- Pricing + features
 - CTA
 - Footer
